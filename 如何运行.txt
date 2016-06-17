@@ -1,0 +1,10 @@
+1.下载JDK（运行java程序必备环境，大概100M）
+2.配置JDK环境变量（http://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.htm）
+3.双击“开始游戏.cmd”开始游戏
+方向键控制“上下左右”小键盘1/2/3/6 确定/返回/下翻页/上翻页(hz.cdj.game.fmj.GameView.addL()方法设置)
+
+
+src文件夹包含源码文件
+assets文件夹包含伏魔记游戏资源、字库文件、存档文件
+
+程序大部分源码来源android版伏魔记(作者不详)，这个版本修改了绘图和事件监听可在电脑端运行
